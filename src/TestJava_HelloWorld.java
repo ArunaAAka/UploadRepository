@@ -7,6 +7,6 @@ public class TestJava_HelloWorld
 			System.out.println("Hello User. Welcome. This is Line Number -" + i);
 		}
 		System.out.println ("Program executed successfully and coming out");
-		System.out.println("NewLine Added for test")
+		System.out.println("NewLine Added for test");
 	}
 }
